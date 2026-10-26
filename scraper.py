@@ -22,6 +22,7 @@ DB_PATH = ROOT / "pings.json"
 # 이 페이지/카테고리에 걸린 문서들 중 티니핑 캐릭터 문서만 골라낸다
 LIST_PAGES = ["List of Teeniepings", "Teeniepings"]
 ROOT_CATEGORY = "Category:Teeniepings"
+PLACEHOLDER = "No screenshot"  # 위키의 "사진 없음" 이미지
 
 
 def api(**params):
@@ -144,8 +145,10 @@ def update(log=print):
     added = 0
     for c in chars:
         url = urls.get(c["file"])
-        if not url:
-            log(f"  이미지 없음: {c['en']}")
+        if not url or c["file"].startswith(PLACEHOLDER):
+            # 위키에 아직 사진이 없는 핑은 빼두고, 사진이 올라오면 다음 업데이트 때 들어간다
+            if db.pop(c["en"], None):
+                log(f"  - 사진 없음, 제외: {c['en']}")
             continue
         if c["en"] not in db:
             added += 1
