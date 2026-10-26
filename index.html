@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>티니핑 맞추기</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Jua&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg1: #ffe3f1; --bg2: #e6dcff;
+    --card: #ffffff; --ink: #5b3a6e; --muted: #a58bb5;
+    --btn: #ff6fae; --btn-shadow: #d94c8c;
+  }
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html, body { height: 100%; margin: 0; }
+  body {
+    font-family: "Jua", system-ui, sans-serif;
+    color: var(--ink);
+    background: linear-gradient(160deg, var(--bg1), var(--bg2));
+    display: flex; flex-direction: column; align-items: center;
+    overflow: hidden; user-select: none;
+  }
+  .top {
+    width: 100%; display: flex; justify-content: space-between; align-items: flex-start;
+    padding: 12px 16px; gap: 12px;
+  }
+  .tools { display: flex; gap: 8px; }
+  .tool {
+    border: none; background: rgba(255,255,255,.7); color: var(--muted);
+    font: inherit; font-size: 14px; padding: 6px 10px; border-radius: 999px; cursor: pointer;
+  }
+  .count { font-size: 14px; color: var(--muted); align-self: center; }
+  .name {
+    font-size: 15px; color: var(--muted); text-align: right;
+    background: rgba(255,255,255,.6); padding: 4px 10px; border-radius: 10px;
+    min-height: 1.6em;
+  }
+  .name.hidden { color: transparent; background: rgba(255,255,255,.35); }
+  .stage {
+    flex: 1; width: 100%; display: flex; align-items: center; justify-content: center;
+    padding: 0 16px; min-height: 0;
+  }
+  .card {
+    background: var(--card); border-radius: 36px;
+    box-shadow: 0 12px 40px rgba(150, 80, 160, .25);
+    width: min(92vw, 70vh, 560px); aspect-ratio: 1;
+    display: flex; align-items: center; justify-content: center; padding: 24px;
+  }
+  .card img {
+    max-width: 100%; max-height: 100%; object-fit: contain;
+    animation: pop .45s cubic-bezier(.2, 1.6, .4, 1);
+  }
+  @keyframes pop { from { transform: scale(.5) rotate(-6deg); opacity: 0; } to { transform: none; opacity: 1; } }
+  .msg { font-size: 22px; color: var(--muted); text-align: center; }
+  .next {
+    margin: 20px 0 calc(28px + env(safe-area-inset-bottom));
+    border: none; cursor: pointer; font: inherit; color: #fff;
+    font-size: clamp(36px, 8vw, 56px); line-height: 1;
+    padding: 22px 56px; border-radius: 999px;
+    background: var(--btn); box-shadow: 0 8px 0 var(--btn-shadow);
+    transition: transform .08s, box-shadow .08s;
+  }
+  .next:active { transform: translateY(6px); box-shadow: 0 2px 0 var(--btn-shadow); }
+  .done { font-size: 80px; }
+</style>
+</head>
+<body>
+  <div class="top">
+    <div class="tools">
+      <button class="tool" id="reset" title="처음부터 다시 섞기">↺ 처음부터</button>
+      <button class="tool" id="toggle" title="이름 보이기/숨기기">👁</button>
+      <span class="count" id="count"></span>
+    </div>
+    <div class="name" id="name"></div>
+  </div>
+
+  <div class="stage"><div class="card" id="card"><div class="msg">불러오는 중...</div></div></div>
+
+  <button class="next" id="next" aria-label="다음 문제">▶</button>
+
+<script>
+const $ = id => document.getElementById(id);
+let pings = [], deck = [], pos = -1;
+
+function load(key, fallback) { try { return JSON.parse(localStorage.getItem(key)) ?? fallback; } catch { return fallback; } }
+function save(key, val) { try { localStorage.setItem(key, JSON.stringify(val)); } catch {} }
+
+function shuffle(a) {
+  for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; }
+  return a;
+}
+
+// 한 바퀴 도는 동안 같은 핑이 다시 나오지 않도록 섞은 덱을 쓴다
+function newDeck() {
+  deck = shuffle(pings.map(p => p.en));
+  pos = -1;
+  save("deck", { deck, pos });
+}
+
+function preload(i) {
+  const p = byEn(deck[i]);
+  if (p) new Image().src = p.image;
+}
+const byEn = en => pings.find(p => p.en === en);
+
+function show() {
+  const p = byEn(deck[pos]);
+  if (!p) return next();
+  const img = new Image();
+  img.alt = "";
+  img.onerror = () => next();   // 깨진 이미지는 조용히 건너뛰기
+  img.src = p.image;
+  $("card").replaceChildren(img);
+  $("name").textContent = p.ko;
+  $("count").textContent = `${pos + 1} / ${deck.length}`;
+  preload(pos + 1);
+}
+
+function next() {
+  if (!pings.length) return;
+  pos++;
+  if (pos >= deck.length) {
+    $("card").innerHTML = '<div class="done">🎉</div>';
+    $("name").textContent = "다 봤어요!";
+    $("count").textContent = "";
+    newDeck();
+    return;
+  }
+  save("deck", { deck, pos });
+  show();
+}
+
+async function fetchPings() {
+  const res = await fetch("pings.json", { cache: "no-cache" });
+  pings = await res.json();
+  const saved = load("deck", null);
+  const names = new Set(pings.map(p => p.en));
+  // 저장된 덱이 있으면 이어서, DB에 새 핑이 생겼으면 덱을 새로 섞기
+  if (saved && saved.deck.length === pings.length && saved.deck.every(en => names.has(en))) {
+    ({ deck, pos } = saved);
+  } else {
+    newDeck();
+  }
+  if (!pings.length) { $("card").innerHTML = '<div class="msg">티니핑이 없어요</div>'; return; }
+  if (pos < 0) next(); else show();
+}
+
+$("next").onclick = next;
+$("reset").onclick = () => { newDeck(); next(); };
+$("toggle").onclick = () => {
+  const hidden = $("name").classList.toggle("hidden");
+  save("hideName", hidden);
+};
+if (load("hideName", false)) $("name").classList.add("hidden");
+
+document.addEventListener("keydown", e => { if (e.key === " " || e.key === "ArrowRight" || e.key === "Enter") next(); });
+
+fetchPings();
+</script>
+</body>
+</html>

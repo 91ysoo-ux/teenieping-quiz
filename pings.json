@@ -1,0 +1,882 @@
+[
+ {
+  "en": "Allmineping",
+  "ko": "다조핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/9/9f/Allmineping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260808120305"
+ },
+ {
+  "en": "Allureping",
+  "ko": "여우핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/6/66/Allureping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20261024074108"
+ },
+ {
+  "en": "Aloneping",
+  "ko": "홀로핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/e/e7/Aloneping_Render_2.png/revision/latest/scale-to-width-down/600?cb=20260126065325"
+ },
+ {
+  "en": "Ariaping",
+  "ko": "아아핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/3/35/Ariaping_Render_1.png/revision/latest?cb=20260126073855"
+ },
+ {
+  "en": "Artping",
+  "ko": "그림핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/5/5e/Artping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260126072614"
+ },
+ {
+  "en": "Auroraping",
+  "ko": "오로라핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/1/1f/Auroraping_Without_Wings_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260126050509"
+ },
+ {
+  "en": "Balletping",
+  "ko": "발레핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/0/05/Balletping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260330174724"
+ },
+ {
+  "en": "Bebeping",
+  "ko": "베베핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/f/f1/Bebeping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260126083334"
+ },
+ {
+  "en": "Bellaping",
+  "ko": "다롱핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/c/c7/Bellaping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260404181442"
+ },
+ {
+  "en": "Blankping",
+  "ko": "깜빡핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/2/27/Blankping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260126092259"
+ },
+ {
+  "en": "Blazeping",
+  "ko": "불꽃핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/b/b0/No_screenshot.png/revision/latest/scale-to-width-down/600?cb=20260108035936"
+ },
+ {
+  "en": "Bonnyping",
+  "ko": "뽀니핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/e/ed/Bonnyping_Render_5.png/revision/latest/scale-to-width-down/600?cb=20260304185421"
+ },
+ {
+  "en": "Bouncyping",
+  "ko": "폴짝핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/6/61/Bouncyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20261002070943"
+ },
+ {
+  "en": "Bowwowping",
+  "ko": "시고르핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/a/ab/Bowwowping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20261002064756"
+ },
+ {
+  "en": "Bubbleping",
+  "ko": "방울핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/e/e8/Bubbleping_Normal_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260701234640"
+ },
+ {
+  "en": "Buddyping",
+  "ko": "짝짝핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/0/08/Buddyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260127043828"
+ },
+ {
+  "en": "Candyping",
+  "ko": "캔디핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/9/9e/Candyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260816064857"
+ },
+ {
+  "en": "Chachaping",
+  "ko": "차차핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/7/7e/Chachaping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260304171737"
+ },
+ {
+  "en": "Charlesping",
+  "ko": "샤를핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/7/79/Charlesping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260304180518"
+ },
+ {
+  "en": "Charmingping",
+  "ko": "차밍핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/1/17/Charmingping_Render_4.png/revision/latest/scale-to-width-down/600?cb=20260304184722"
+ },
+ {
+  "en": "Charmping",
+  "ko": "아잉핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/a/a2/Charmping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260306181633"
+ },
+ {
+  "en": "Cheerupping",
+  "ko": "힘내핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/6/65/Cheerupping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260306184420"
+ },
+ {
+  "en": "Cherryping",
+  "ko": "체리핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/8/86/Cherryping_Normal_Render_3.png/revision/latest/scale-to-width-down/600?cb=20261019124538"
+ },
+ {
+  "en": "Chocoping",
+  "ko": "쪼꼬핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/4/43/Chocoping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260413062112"
+ },
+ {
+  "en": "Claireping",
+  "ko": "아름핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/0/01/Claireping_Render_6.png/revision/latest/scale-to-width-down/600?cb=20260304185313"
+ },
+ {
+  "en": "Coolping",
+  "ko": "덜덜핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/5/59/Coolping_Render_1.png/revision/latest?cb=20260324200052"
+ },
+ {
+  "en": "Cozyping",
+  "ko": "포근핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/2/2b/Cozyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260324213348"
+ },
+ {
+  "en": "Cupidping",
+  "ko": "큐핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/6/60/Cupidping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260324182228"
+ },
+ {
+  "en": "Cupping",
+  "ko": "커핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/3/32/Cupping_Render_2.png/revision/latest/scale-to-width-down/600?cb=20260407100326"
+ },
+ {
+  "en": "Cureping",
+  "ko": "삐뽀핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/1/1d/Cureping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260521074925"
+ },
+ {
+  "en": "Curieping",
+  "ko": "모야핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/e/e2/Curieping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260419165548"
+ },
+ {
+  "en": "Cursed Dianaping",
+  "ko": "저주받은 다이아나핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/8/8f/Cursed_Dianaping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20251106102654"
+ },
+ {
+  "en": "Cutieping",
+  "ko": "쏭쏭핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/1/1c/Cutieping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20261023012136"
+ },
+ {
+  "en": "Dadaping",
+  "ko": "바로핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/5/51/Dadaping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260504075200"
+ },
+ {
+  "en": "Dareping",
+  "ko": "부투핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/6/67/Dareping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260824042549"
+ },
+ {
+  "en": "Dazzleping",
+  "ko": "고고핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/7/70/Dazzleping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260330200100"
+ },
+ {
+  "en": "Dewping",
+  "ko": "이슬핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/5/5e/Dewping_Render_3.png/revision/latest/scale-to-width-down/600?cb=20260516161518"
+ },
+ {
+  "en": "Dianaping",
+  "ko": "다이아나핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/1/1b/Dianaping_Without_Wings_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260215021438"
+ },
+ {
+  "en": "Dingdongping",
+  "ko": "딩동핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/2/20/Dingdongping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260130004429"
+ },
+ {
+  "en": "Divaping",
+  "ko": "디바핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/b/b0/No_screenshot.png/revision/latest/scale-to-width-down/600?cb=20260108035936"
+ },
+ {
+  "en": "Donutping",
+  "ko": "또너핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/5/51/Donutping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260324171025"
+ },
+ {
+  "en": "Doremiping",
+  "ko": "루루핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/a/ae/Doremiping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260324173137"
+ },
+ {
+  "en": "Dozyping",
+  "ko": "쿨쿨핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/c/c1/Dozyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260129104648"
+ },
+ {
+  "en": "Dreamping",
+  "ko": "띠용핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/2/29/Dreamping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260404195057"
+ },
+ {
+  "en": "Dun-dunping",
+  "ko": "빠밤핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/b/b0/No_screenshot.png/revision/latest/scale-to-width-down/600?cb=20260108035936"
+ },
+ {
+  "en": "Eclipseping",
+  "ko": "이클립스핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/1/1a/Eclipseping_Without_Wings_Render_3.png/revision/latest/scale-to-width-down/600?cb=20260321022448"
+ },
+ {
+  "en": "Egoping",
+  "ko": "앙대핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/0/00/Egoping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260228172440"
+ },
+ {
+  "en": "Ellaping",
+  "ko": "아롱핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/c/cc/Ellaping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260228163432"
+ },
+ {
+  "en": "Fashionping",
+  "ko": "패션핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/2/23/Fashionping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260225214150"
+ },
+ {
+  "en": "Flitterping",
+  "ko": "나비핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/9/96/Flitterping_Render_4.png/revision/latest/scale-to-width-down/600?cb=20260521034110"
+ },
+ {
+  "en": "Floraping",
+  "ko": "플라핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/7/7c/Floraping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260228162328"
+ },
+ {
+  "en": "Fluffyping",
+  "ko": "포실핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/8/85/Fluffyping_S4_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260507012621"
+ },
+ {
+  "en": "Freezeping",
+  "ko": "꽁꽁핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/4/44/Freezeping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260228161731"
+ },
+ {
+  "en": "Frogping",
+  "ko": "깨굴핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/4/49/Frogping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260225210447"
+ },
+ {
+  "en": "Giftping",
+  "ko": "주네핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/e/e3/Giftping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260814142206"
+ },
+ {
+  "en": "Giggleping",
+  "ko": "악동핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/4/45/Giggleping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260427153813"
+ },
+ {
+  "en": "Giverping",
+  "ko": "나눔핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/4/40/Giverping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260326191040"
+ },
+ {
+  "en": "Glossyping",
+  "ko": "롱롱핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/0/07/Glossyping_Render_2.png/revision/latest/scale-to-width-down/600?cb=20260222195937"
+ },
+ {
+  "en": "Gogoping",
+  "ko": "아자핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/0/04/Gogoping_Render_1.png/revision/latest?cb=20220114163807"
+ },
+ {
+  "en": "Goodping",
+  "ko": "차캐핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/b/b9/Goodping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260222190822"
+ },
+ {
+  "en": "Graceping",
+  "ko": "사뿐핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/7/7f/Graceping_Render_5.png/revision/latest/scale-to-width-down/600?cb=20260304185215"
+ },
+ {
+  "en": "Handyping",
+  "ko": "고쳐핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/4/4e/Handyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260218033744"
+ },
+ {
+  "en": "Heartsping",
+  "ko": "하츄핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/3/3b/Heartsping_S1_Render_1.png/revision/latest/scale-to-width-down/600?cb=20240602044610"
+ },
+ {
+  "en": "Heavyping",
+  "ko": "무거핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/c/ce/Heavyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260218024711"
+ },
+ {
+  "en": "Henryping",
+  "ko": "젠틀핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/b/b0/Henryping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260218022351"
+ },
+ {
+  "en": "Hopping",
+  "ko": "깡총핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/7/79/Hopping_S5_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260217092929"
+ },
+ {
+  "en": "Hotping",
+  "ko": "뜨거핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/6/60/Hotping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260217090102"
+ },
+ {
+  "en": "Huffyping",
+  "ko": "삐짐핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/7/73/Huffyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260217083032"
+ },
+ {
+  "en": "Hulaping",
+  "ko": "훌라핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/0/08/Hulaping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260324181908"
+ },
+ {
+  "en": "Hurryping",
+  "ko": "빨리핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/6/63/Hurryping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260217042025"
+ },
+ {
+  "en": "Iceflakeping",
+  "ko": "눈꽃핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/e/ef/Iceflakeping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260217025656"
+ },
+ {
+  "en": "Jellyping",
+  "ko": "말랑핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/7/79/Jellyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20261010061348"
+ },
+ {
+  "en": "Joahping",
+  "ko": "조아핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/1/1e/Joahping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20210920174248"
+ },
+ {
+  "en": "Julietping",
+  "ko": "낭낭핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/1/14/Julietping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20261024053113"
+ },
+ {
+  "en": "Justiceping",
+  "ko": "꼼딱핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/0/00/Justiceping_Render_2.png/revision/latest/scale-to-width-down/600?cb=20260215065733"
+ },
+ {
+  "en": "Kikiping",
+  "ko": "키키핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/e/ea/Kikiping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260819115953"
+ },
+ {
+  "en": "Kissyping",
+  "ko": "뽀뽀핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/8/80/Kissyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260324160500"
+ },
+ {
+  "en": "Kittyping",
+  "ko": "야옹핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/1/13/Kittyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20261010055437"
+ },
+ {
+  "en": "Kkamingping",
+  "ko": "까밍핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/b/b0/No_screenshot.png/revision/latest/scale-to-width-down/600?cb=20260108035936"
+ },
+ {
+  "en": "Ladyping",
+  "ko": "공쥬핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/9/96/Ladyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260215042102"
+ },
+ {
+  "en": "Lalaping",
+  "ko": "라라핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/5/58/Lalaping_Render_1.png/revision/latest?cb=20220114163745"
+ },
+ {
+  "en": "Lemonping",
+  "ko": "레몬핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/f/f1/Lemonping_Normal_Render_1.png/revision/latest/scale-to-width-down/600?cb=20261019124437"
+ },
+ {
+  "en": "Limeping",
+  "ko": "라임핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/e/e5/Limeping_Normal_Render_3.png/revision/latest/scale-to-width-down/600?cb=20261019124730"
+ },
+ {
+  "en": "Lolliping",
+  "ko": "롤리핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/d/de/Lolliping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260324172030"
+ },
+ {
+  "en": "Luckyping",
+  "ko": "행운핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/f/fd/Luckyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260505071255"
+ },
+ {
+  "en": "Lucyping",
+  "ko": "유리핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/2/2d/Lucyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260326171705"
+ },
+ {
+  "en": "Luvping",
+  "ko": "바네핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/b/b1/Luvping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260515205451"
+ },
+ {
+  "en": "Macaping",
+  "ko": "마카핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/b/ba/Macaping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260327143000"
+ },
+ {
+  "en": "Mallowping",
+  "ko": "멜로핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/c/cf/Mallowping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260808210210"
+ },
+ {
+  "en": "Marineping",
+  "ko": "마린핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/b/b0/No_screenshot.png/revision/latest/scale-to-width-down/600?cb=20260108035936"
+ },
+ {
+  "en": "Maskping",
+  "ko": "가면핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/4/46/Maskping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260405025734"
+ },
+ {
+  "en": "Memoping",
+  "ko": "메모핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/c/c3/Memoping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260820181220"
+ },
+ {
+  "en": "Meowping",
+  "ko": "냐냥핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/6/62/Meowping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20261002070100"
+ },
+ {
+  "en": "Meringueping",
+  "ko": "머랭핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/6/62/Meringueping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260323203332"
+ },
+ {
+  "en": "Mightyping",
+  "ko": "고마핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/2/28/Mightyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260404153811"
+ },
+ {
+  "en": "Mimicping",
+  "ko": "따라핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/8/86/Mimicping_Render_2.png/revision/latest/scale-to-width-down/600?cb=20260211230334"
+ },
+ {
+  "en": "Moseyping",
+  "ko": "차나핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/0/07/Moseyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260211225556"
+ },
+ {
+  "en": "Muffping",
+  "ko": "머핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/2/28/Muffping_Render_2.png/revision/latest/scale-to-width-down/600?cb=20260211222753"
+ },
+ {
+  "en": "Museping",
+  "ko": "뮤즈핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/b/b0/No_screenshot.png/revision/latest/scale-to-width-down/600?cb=20260108035936"
+ },
+ {
+  "en": "Nanaping",
+  "ko": "나나핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/9/9c/Nanaping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260304192947"
+ },
+ {
+  "en": "Narrping",
+  "ko": "나르핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/3/32/Narrping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260210225209"
+ },
+ {
+  "en": "Nonoping",
+  "ko": "시러핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/9/97/Nonoping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260210215810"
+ },
+ {
+  "en": "Noraping",
+  "ko": "노라핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/2/2f/Noraping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260210215449"
+ },
+ {
+  "en": "Noriping",
+  "ko": "노리핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/3/30/Noriping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260210215138"
+ },
+ {
+  "en": "Okeydokeyping",
+  "ko": "꾸래핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/e/ed/Okeydokeyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20250427210750"
+ },
+ {
+  "en": "Onlyping",
+  "ko": "다해핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/a/aa/Onlyping_S2_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260210015052"
+ },
+ {
+  "en": "Operaping",
+  "ko": "아리아핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/9/99/Operaping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20261022080950"
+ },
+ {
+  "en": "Oppoping",
+  "ko": "꺼꿀핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/3/3b/Oppoping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260210013613"
+ },
+ {
+  "en": "Owwping",
+  "ko": "아야핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/f/fa/Owwping_Render_1.png/revision/latest?cb=20260820175202"
+ },
+ {
+  "en": "Pancakeping",
+  "ko": "핫케핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/0/0f/Pancakeping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260327143145"
+ },
+ {
+  "en": "Partyping",
+  "ko": "파티핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/4/45/Partyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260209073200"
+ },
+ {
+  "en": "Patping",
+  "ko": "토닥핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/d/d5/Patping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260209064819"
+ },
+ {
+  "en": "Peachyping",
+  "ko": "포포핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/b/b0/No_screenshot.png/revision/latest/scale-to-width-down/600?cb=20260108035936"
+ },
+ {
+  "en": "Petitping",
+  "ko": "나그네핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/a/a4/Petitping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260405023743"
+ },
+ {
+  "en": "Pop-popping",
+  "ko": "팡팡핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/b/b0/No_screenshot.png/revision/latest/scale-to-width-down/600?cb=20260108035936"
+ },
+ {
+  "en": "Princeping",
+  "ko": "왕자핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/f/f4/Princeping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260201201131"
+ },
+ {
+  "en": "Pteraping",
+  "ko": "잉잉핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/b/b0/No_screenshot.png/revision/latest/scale-to-width-down/600?cb=20260108035936"
+ },
+ {
+  "en": "Puddingping",
+  "ko": "푸딩핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/c/c8/Puddingping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260326195636"
+ },
+ {
+  "en": "Puffping",
+  "ko": "뿌뿌핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/d/d2/Puffping_Render_3.png/revision/latest/scale-to-width-down/600?cb=20260319190412"
+ },
+ {
+  "en": "Rellaping",
+  "ko": "슈슈핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/d/d4/Rellaping_Render_4.png/revision/latest/scale-to-width-down/600?cb=20260402100446"
+ },
+ {
+  "en": "Roarping",
+  "ko": "화나핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/e/ea/Roarping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260209033529"
+ },
+ {
+  "en": "Romeoping",
+  "ko": "아서핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/1/1a/Romeoping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20261024055748"
+ },
+ {
+  "en": "Sandping",
+  "ko": "샌드핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/7/7d/Sandping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260816051426"
+ },
+ {
+  "en": "Scrubping",
+  "ko": "뽀득핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/2/2e/Scrubping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260208213837"
+ },
+ {
+  "en": "Sculptping",
+  "ko": "뚝딱핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/a/ae/Sculptping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260330175253"
+ },
+ {
+  "en": "Shashaping",
+  "ko": "샤샤핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/f/f8/Shashaping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20230830102417"
+ },
+ {
+  "en": "Shellyping",
+  "ko": "소라핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/2/20/Shellyping_Normal_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260626093001"
+ },
+ {
+  "en": "Shimmerping",
+  "ko": "빛나핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/2/2c/Shimmerping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260815033128"
+ },
+ {
+  "en": "Shushping",
+  "ko": "똑똑핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/4/40/Shushping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260203231719"
+ },
+ {
+  "en": "Shyping",
+  "ko": "부끄핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/6/6b/Shyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260203231307"
+ },
+ {
+  "en": "Sighping",
+  "ko": "아휴핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/5/53/Sighping_Render_2.png/revision/latest/scale-to-width-down/600?cb=20260203230318"
+ },
+ {
+  "en": "Silkyping",
+  "ko": "실크핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/0/01/Silkyping_Render_3.png/revision/latest/scale-to-width-down/600?cb=20260203073458"
+ },
+ {
+  "en": "Sleeping",
+  "ko": "코자핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/3/37/Sleeping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260427144526"
+ },
+ {
+  "en": "Sneakyping",
+  "ko": "몰래핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/5/52/Sneakyping_Normal_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260202202548"
+ },
+ {
+  "en": "Snowping",
+  "ko": "스노우핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/c/c5/Snowping_Render_3.png/revision/latest/scale-to-width-down/600?cb=20260202213303"
+ },
+ {
+  "en": "Snuggyping",
+  "ko": "뽀송핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/6/6c/Snuggyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260531191512"
+ },
+ {
+  "en": "Sparkleping",
+  "ko": "초롱핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/c/c7/Sparkleping_Render_2.png/revision/latest?cb=20260827233509"
+ },
+ {
+  "en": "Sparkping",
+  "ko": "찌릿핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/0/0f/Sparkping_Render_2.png/revision/latest/scale-to-width-down/600?cb=20260202201950"
+ },
+ {
+  "en": "Splashping",
+  "ko": "퐁당핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/2/2f/Splashping_Normal_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260202195422"
+ },
+ {
+  "en": "Spookping",
+  "ko": "무셔핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/c/cc/Spookping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260202195008"
+ },
+ {
+  "en": "Stickerping",
+  "ko": "뿌쵸핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/1/11/Stickerping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20261019061748"
+ },
+ {
+  "en": "Stickping",
+  "ko": "딱풀핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/a/a1/Stickping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260202190415"
+ },
+ {
+  "en": "Styleping",
+  "ko": "꾸며핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/8/8a/Styleping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260711095235"
+ },
+ {
+  "en": "Stylistping",
+  "ko": "코디핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/b/bc/Stylistping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20261022080931"
+ },
+ {
+  "en": "Swayping",
+  "ko": "댄스핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/0/01/Swayping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260907103020"
+ },
+ {
+  "en": "Sweetping",
+  "ko": "달콤핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/3/35/Sweetping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260813062316"
+ },
+ {
+  "en": "T-raping",
+  "ko": "앙앙핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/b/b0/No_screenshot.png/revision/latest/scale-to-width-down/600?cb=20260108035936"
+ },
+ {
+  "en": "Takaping",
+  "ko": "타카핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/2/2b/Takaping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20261022235854"
+ },
+ {
+  "en": "Tangyping",
+  "ko": "새콤핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/9/9a/Tangyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260202075315"
+ },
+ {
+  "en": "Teeheeping",
+  "ko": "방글핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/9/9a/Teeheeping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20210920174255"
+ },
+ {
+  "en": "Tickleping",
+  "ko": "까르핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/0/06/Tickleping_Render_3.png/revision/latest/scale-to-width-down/600?cb=20260319095043"
+ },
+ {
+  "en": "Tidyping",
+  "ko": "싹싹핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/b/ba/Tidyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260820182249"
+ },
+ {
+  "en": "Tikiping",
+  "ko": "티키핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/8/85/Tikiping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20261022235415"
+ },
+ {
+  "en": "Timidping",
+  "ko": "쪼꼼핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/a/a8/Timidping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260711161225"
+ },
+ {
+  "en": "Togetherping",
+  "ko": "함께핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/5/5f/Togetherping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260404062954"
+ },
+ {
+  "en": "Toyping",
+  "ko": "토이핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/3/37/Toyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260422155433"
+ },
+ {
+  "en": "Trotping",
+  "ko": "트롯핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/d/d4/Trotping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260201212643"
+ },
+ {
+  "en": "Trueping",
+  "ko": "솔찌핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/8/85/Trueping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20220812150351"
+ },
+ {
+  "en": "Trustping",
+  "ko": "믿어핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/d/d9/Trustping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20210920174301"
+ },
+ {
+  "en": "Truthping",
+  "ko": "트러핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/a/ac/Truthping_Normal_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260201175548"
+ },
+ {
+  "en": "Tutuping",
+  "ko": "투투핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/0/01/Tutuping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260201175338"
+ },
+ {
+  "en": "Tweetping",
+  "ko": "떠벌핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/d/db/Tweetping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260808122530"
+ },
+ {
+  "en": "Twinkleping",
+  "ko": "빤짝핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/0/0d/Twinkleping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260304192733"
+ },
+ {
+  "en": "Twirlping",
+  "ko": "빙글핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/f/fa/Twirlping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260201024005"
+ },
+ {
+  "en": "Vitaping",
+  "ko": "비타핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/b/b0/No_screenshot.png/revision/latest/scale-to-width-down/600?cb=20260108035936"
+ },
+ {
+  "en": "Waffleping",
+  "ko": "와플핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/5/5a/Waffleping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260427153539"
+ },
+ {
+  "en": "Wannabeping",
+  "ko": "또까핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/3/3b/Wannabeping_Render_2.png/revision/latest/scale-to-width-down/600?cb=20260131230340"
+ },
+ {
+  "en": "Wavyping",
+  "ko": "찰랑핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/9/9a/Wavyping_Normal_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260701234314"
+ },
+ {
+  "en": "Weeping",
+  "ko": "주르핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/7/73/Weeping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260131225700"
+ },
+ {
+  "en": "Wishping",
+  "ko": "소원핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/2/2d/Wishping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260130145149"
+ },
+ {
+  "en": "Wizping",
+  "ko": "아라핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/6/63/Wizping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260129143800"
+ },
+ {
+  "en": "Wonderping",
+  "ko": "원더핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/3/32/Wonderping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260330174106"
+ },
+ {
+  "en": "Yogurtping",
+  "ko": "요거핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/d/d5/Yogurtping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260129134903"
+ },
+ {
+  "en": "Yummyping",
+  "ko": "맛나핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/1/19/Yummyping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260531181317"
+ },
+ {
+  "en": "Yumyumping",
+  "ko": "얌얌핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/6/62/Yumyumping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260129130701"
+ },
+ {
+  "en": "Zipping",
+  "ko": "씽씽핑",
+  "image": "https://static.wikia.nocookie.net/catchteeniepin/images/4/4a/Zipping_Render_1.png/revision/latest/scale-to-width-down/600?cb=20260129113558"
+ }
+]
