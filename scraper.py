@@ -154,8 +154,7 @@ def update(log=print):
         db[c["en"]] = {"en": c["en"], "ko": c["ko"], "image": url}
 
     pings = sorted(db.values(), key=lambda p: p["en"])
-    DB_PATH.write_text(json.dumps(pings, ensure_ascii=False, indent=1) + "
-", encoding="utf-8")
+    DB_PATH.write_text(json.dumps(pings, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     log(f"완료: 새 티니핑 {added}개, 전체 {len(pings)}개")
     return {"added": added, "total": len(pings)}
 
